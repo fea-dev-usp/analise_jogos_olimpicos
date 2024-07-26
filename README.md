@@ -22,10 +22,10 @@
 ---
 
 # Análise sobre os Jogos Olímpicos
-Uma análise de dados em Python sobre os Jogos Olímpicos
 
+Hoje inicia-se os **Jogos Olímpicos de verão** em Paris, marcando a terceira vez que a capital francesa sedia este evento. Desde a sua origem na Grécia Antiga até a sua moderna reencarnação iniciada em 1896, os eventos têm evoluído significativamente, refletindo mudanças sociais, políticas e culturais ao longo dos séculos.
 
-Hoje inicia-se os **Jogos Olímpicos de verão** em Paris, marcando a terceira vez que a capital francesa sedia este evento. As Olimpíadas representam um dos eventos esportivos mais antigos e prestigiados do mundo, reunindo atletas de diversas nações e celebrando a excelência esportiva em uma ampla variedade de modalidades. Além da competição esportiva, **são um símbolo de união global, celebram a diversidade cultural e inspiram milhões de pessoas ao redor do mundo**. 
+As Olimpíadas representam um dos eventos esportivos mais antigos e prestigiados do mundo, reunindo atletas de diversas nações e celebrando a excelência esportiva em uma ampla variedade de modalidades. Além da competição esportiva, **são um símbolo de união global, celebram a diversidade cultural e inspiram milhões de pessoas ao redor do mundo**. 
 
 
 
@@ -33,9 +33,9 @@ Hoje inicia-se os **Jogos Olímpicos de verão** em Paris, marcando a terceira v
 
 ## Overview
 
-Inspirada pelo evento e pela curiosidade, o FEA.dev realizou uma análise de dados abrangendo todas as edições dos Jogos Olímpicos. O objetivo é responder a perguntas como quais são os países mais vencedores, qual é o desempenho do Brasil, a representatividade de gênero, entre outras questões, além de entrar no clima olímpico.
+Inspirada pelo evento e pela curiosidade, o **FEA.dev** realizou uma análise de dados abrangendo todas as edições dos Jogos Olímpicos. O objetivo é responder a perguntas como quais são os países mais vencedores, qual é o desempenho do Brasil, a representatividade de gênero, entre outras questões, além de entrar no clima olímpico.
 
-Essa análise de dados, realizada em Python, utiliza o “Olympic Historical Dataset”, que inclui informações detalhadas sobre atletas, modalidades, resultados e medalhas de todas as edições dos Jogos Olímpicos.
+Essa análise de dados, **realizada em Python**, utiliza o “Olympic Historical Dataset”, que inclui informações detalhadas sobre atletas, modalidades, resultados e medalhas de todas as edições dos Jogos Olímpicos.
 
 
 ## Instalação

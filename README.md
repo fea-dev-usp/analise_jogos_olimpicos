@@ -67,5 +67,5 @@ Os resultados podem ser conferidos no storytelling contido no arquivo "Jogos Ol√
 
 ## Cr√©ditos
 
-- [Adrielle Abreu](https://github.com/Adrielle123abreu), 
-- [Amabile Nunes](https://github.com/mabibis), 
+- [Adrielle Abreu](https://github.com/Adrielle123abreu)
+- [Amabile Nunes](https://github.com/mabibis)

@@ -43,13 +43,13 @@ Essa análise de dados, **realizada em Python**, utiliza o “Olympic Historical
 Foram utilizadas as seguintes dependências:
 
 __Manipulação de dados:__
-```bash
+```python
 
 import pandas as pd
 ```
 
 __Visualização de dados:__
-```bash
+```python
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.graph_objs as go
@@ -57,7 +57,7 @@ import plotly.express as px
 ```
 
 Caso falte alguma dependência na sua máquina, basta instalar com o comando pip, como pode ser visto no exemplo abaixo.
-```bash
+```python
   pip install pandas
 ```
 

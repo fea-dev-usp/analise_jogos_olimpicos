@@ -64,7 +64,10 @@ Caso falte alguma dependência na sua máquina, basta instalar com o comando pip
 
 ## Resultados
 
-Os resultados podem ser conferidos no storytelling contido no arquivo ```Jogos Olímpicos.ipynb``` da análise do dados e [na publicação realizada no perfil do FEA.dev no Instagram](https://www.instagram.com/p/C6AAb3myihr).
+Os resultados podem ser conferidos no storytelling contido no arquivo ```Jogos Olímpicos.ipynb``` da análise do dados e nas redes sociais da FEA.dev, nos links abaixo:
+- [Instagram](https://www.instagram.com/p/C6AAb3myihr);
+- [LinkedIn](https://www.linkedin.com/posts/fea-dev_olimp%C3%ADadas-activity-7223073482492772352-p9hL?utm_source=share&utm_medium=member_desktop);
+- [YouTube](http://youtube.com/post/UgkxxFW59GffyjlCu8h1V09IM0u44kdGsEiI?si=Ksi4vJEWK2Qj_97d).
 
 ## Créditos
 

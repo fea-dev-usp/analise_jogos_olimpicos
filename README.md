@@ -35,7 +35,7 @@ As Olimpíadas representam um dos eventos esportivos mais antigos e prestigiados
 
 Inspirada pelo evento e pela curiosidade, o **FEA.dev** realizou uma análise de dados abrangendo todas as edições dos Jogos Olímpicos. O objetivo é responder a perguntas como quais são os países mais vencedores, qual é o desempenho do Brasil, a representatividade de gênero, entre outras questões, além de entrar no clima olímpico.
 
-Essa análise de dados, **realizada em Python**, utiliza o “Olympic Historical Dataset”, que inclui informações detalhadas sobre atletas, modalidades, resultados e medalhas de todas as edições dos Jogos Olímpicos.
+Essa análise de dados, **realizada em Python**, utiliza o “_Olympic Historical Dataset_”, que inclui informações detalhadas sobre atletas, modalidades, resultados e medalhas de todas as edições dos Jogos Olímpicos.
 
 
 ## Instalação
